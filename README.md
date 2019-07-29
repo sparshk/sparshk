@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Sparsh Kedia
+#Competitive Programmer, Web Developer.
+#Craves for focus and simplicity.
 
 You can use the [editor on GitHub](https://github.com/sparshk/sparshk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
